@@ -1,0 +1,15 @@
+{
+  "name": "docker_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Xin Ding <xin@fossa.com>",
+  "main": "server.js",
+  "license": "MIT",
+  "repository": "https://github.com/fossas/SE-tech-interview",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
